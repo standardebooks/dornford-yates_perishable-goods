@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dornford-yates/perishable-goods</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-13T14:56:03Z</dc:date>
+		<meta property="dcterms:modified">2026-05-13T14:56:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,15 +42,15 @@
 		<meta property="group-position" refines="#collection">2</meta>
 		<dc:description id="description">A group of men hunt for the kidnappers of a friend’s wife.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A robbery has Jonathan Mansel—leader of the &lt;a href="https://standardebooks.org/ebooks/dornford-yates/blind-corner"&gt;&lt;i&gt;Blind Corner&lt;/i&gt;&lt;/a&gt; expedition—worried: they’ve taken none of the money in his safe, just a bundle of letters. The thieves however knew specifically what they were looking for: the letters were from the wife of a close friend, and he’s worried that the contents have exposed his weakness to his enemies. Sure enough, when she goes missing during a riding excursion while on holiday in Austria and a ransom demand for half a million pounds arrives, it’s obvious who’s behind this. The next day, Mansel along with his friends and trusty dog are back in the Rolls and speeding through Europe on a rescue mission.&lt;/p&gt;
-			&lt;p&gt;In &lt;i&gt;Perishable Goods&lt;/i&gt;, set six months after the events of &lt;i&gt;Blind Corner&lt;/i&gt;, we see the newly rich and professionally idle &lt;a href="https://standardebooks.org/collections/richard-chandos"&gt;Richard Chandos&lt;/a&gt; and friends once again pitted against the inimitable Rose Noble. &lt;a href="https://standardebooks.org/ebooks/dornford-yates"&gt;Dornford Yates&lt;/a&gt;, buoyed by the success of the first Chandos novel from the year before, brought the same characters together again, but this time the protagonists are not motivated by money but by love. Many themes remain the same though: struggles against a powerful enemy, desperate escapes from impossible situations, and of course the great houses of Austria, which are almost a character in themselves.&lt;/p&gt;
+			&lt;p&gt;Jonathan Mansel, leader of the Blind Corner expedition, has been robbed; but they’ve taken none of the money in his safe—just a bundle of letters. The thieves, however, knew specifically what they were looking for: the letters were from the wife of a close friend, and Mansel is worried that the contents may have exposed his weakness to his enemies. Sure enough, when she goes missing during a riding excursion while on holiday in Austria, and a ransom demand for half a million pounds arrives, it’s obvious who’s behind this. The next day, Mansel along with his friends and trusty dog are back in the Rolls and speeding through Europe on a rescue mission.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Perishable Goods&lt;/i&gt;, set six months after the events of &lt;a href="https://standardebooks.org/ebooks/dornford-yates/blind-corner"&gt;&lt;i&gt;Blind Corner&lt;/i&gt;&lt;/a&gt;, we see the newly rich and professionally idle &lt;a href="https://standardebooks.org/collections/richard-chandos"&gt;Richard Chandos&lt;/a&gt; and friends once again pitted against the inimitable Rose Noble. &lt;a href="https://standardebooks.org/ebooks/dornford-yates"&gt;Dornford Yates&lt;/a&gt;, buoyed by the success of his first Chandos novel, brings the same characters together again, but this time the protagonists are not motivated by money, but by love. Many of the same themes are revisited: struggles against a powerful enemy, desperate escapes from impossible situations, and, of course, the great houses of Austria, which are almost a character in and of themselves.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20150435</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.99246</dc:source>
 		<meta property="se:production-notes">Quotes removed from “Rose” Noble.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">65646</meta>
+		<meta property="se:reading-ease.flesch">80.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Perishable_Goods</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/dornford-yates_perishable-goods</meta>
 		<dc:creator id="author">Dornford Yates</dc:creator>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
