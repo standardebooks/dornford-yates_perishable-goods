@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/dornford-yates/perishable-goods</dc:identifier>
 		<dc:date>2026-05-13T14:56:03Z</dc:date>
@@ -41,11 +41,11 @@
 		<meta id="collection" property="belongs-to-collection">Richard Chandos</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">2</meta>
-		<dc:description id="description">A group of men hunt for the kidnappers of a friend’s wife.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A group of men hunt for the kidnappers of a friend’s wife.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Jonathan Mansel, leader of the Blind Corner expedition, has been robbed; but they’ve taken none of the money in his safe—just a bundle of letters. The thieves, however, knew specifically what they were looking for: the letters were from the wife of a close friend, and Mansel is worried that the contents may have exposed his weakness to his enemies. Sure enough, when she goes missing during a riding excursion while on holiday in Austria, and a ransom demand for half a million pounds arrives, it’s obvious who’s behind this. The next day, Mansel along with his friends and trusty dog are back in the Rolls and speeding through Europe on a rescue mission.&lt;/p&gt;
 			&lt;p&gt;In &lt;i&gt;Perishable Goods&lt;/i&gt;, set six months after the events of &lt;a href="https://standardebooks.org/ebooks/dornford-yates/blind-corner"&gt;&lt;i&gt;Blind Corner&lt;/i&gt;&lt;/a&gt;, we see the newly rich and professionally idle &lt;a href="https://standardebooks.org/collections/richard-chandos"&gt;Richard Chandos&lt;/a&gt; and friends once again pitted against the inimitable Rose Noble. &lt;a href="https://standardebooks.org/ebooks/dornford-yates"&gt;Dornford Yates&lt;/a&gt;, buoyed by the success of his first Chandos novel, brings the same characters together again, but this time the protagonists are not motivated by money, but by love. Many of the same themes are revisited: struggles against a powerful enemy, desperate escapes from impossible situations, and, of course, the great houses of Austria, which are almost a character in and of themselves.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20150435</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.99246</dc:source>
